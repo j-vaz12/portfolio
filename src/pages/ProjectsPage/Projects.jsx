@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import "./Projects.css"
 // import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 // import { faLink } from "@fortawesome/free-solid-svg-icons";
 
