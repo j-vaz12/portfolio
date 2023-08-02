@@ -1,5 +1,6 @@
 import INFO from "../data/projects";
 import Projects from "../pages/ProjectsPage/Projects";
+import "./allProjects.css"
 export default function AllProjects () {
 	return (
 		<div className="all-projects-container">
