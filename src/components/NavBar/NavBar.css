@@ -1,10 +1,29 @@
-nav {
-    background-color: gray;
-    /* width: 100%; */
-    color: white;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px;
-  }
-  
+.nav-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px; /* Adjust the height as needed */
+}
+
+.nav-oval {
+  display: flex;
+  align-items: center;
+  background-color: #3498db; /* Choose your preferred background color */
+  border-radius: 50px; /* Oval shape with larger radius */
+  padding: 0 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #fff; /* Text color */
+  font-size: 18px;
+  margin: 10px 0;
+  transition: transform 0.2s, color 0.2s;
+}
+
+
+.nav-link:hover {
+  color: #f39c12; /* Hover color */
+  transform: scale(1.1);
+}
