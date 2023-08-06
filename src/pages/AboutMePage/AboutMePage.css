@@ -33,3 +33,18 @@
 .about-container p.skills + p {
     margin-top: -10px;
 }
+
+.resume {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 25px;
+    background-color: #3498db; 
+    padding: 8px 16px; /* Adjust padding for button size */
+    font-size: 16px; /* Adjust font size for button text */
+    color: white; /* Adding text color */
+    font-weight: bold; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
