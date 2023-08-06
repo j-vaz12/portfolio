@@ -2,14 +2,14 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100px; /* Adjust the height as needed */
+  height: 100px; 
 }
 
 .nav-oval {
   display: flex;
   align-items: center;
-  background-color: #3498db; /* Choose your preferred background color */
-  border-radius: 50px; /* Oval shape with larger radius */
+  background-color: #3498db; 
+  border-radius: 50px; 
   padding: 0 20px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
@@ -18,7 +18,7 @@
   text-decoration: none;
   color: #fff; /* Text color */
   font-size: 18px;
-  margin: 10px 0;
+  margin: 20px 60px;
   transition: transform 0.2s, color 0.2s;
 }
 

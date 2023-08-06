@@ -1,0 +1,46 @@
+/* ContactPage.css */
+.contact-container {
+    display: flex;
+    justify-content: space-around; /* Spread socials evenly across the container */
+    align-items: center;
+    height: 100vh; /* Adjust height as needed */
+    background-color: #f7f7f7; /* Set a light background color */
+  }
+  
+  .link {
+    text-decoration: none;
+  }
+  .socials {
+    text-align: center;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s, box-shadow 0.2s;
+    width: 250px;
+  }
+  
+  .socials:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .github {
+    color: #333;
+  }
+  
+  .linkedin {
+    color: rgb(0, 93, 181);
+  }
+  
+  /* Additional styles for links and images */
+  .socials a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .socials img {
+    max-width: 100%;
+    height: auto;
+  }
+  
