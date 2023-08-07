@@ -68,10 +68,10 @@
 }
 
 .profile-circle img {
-    width: 100%; /* Set image width to 100% to fit the circle */
-    height: 100%; /* Set image height to 100% to fit the circle */
+    width: 100%; 
+    height: 100%; 
     object-fit: cover;
-    border-radius: 50%; /* Apply border-radius to the image to match the circle */
+    border-radius: 50%; 
 }
 
 
