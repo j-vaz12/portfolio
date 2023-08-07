@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+   <div id="description" align="center">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  # Portfolio
 
-## Available Scripts
+  ### [Click here to launch!]()
 
-In the project directory, you can run:
+  ##### Jason Vasquez
 
-### `npm start`
+  [![](https://i.imgur.com/JrCnDbB.png)](https://www.linkedin.com/in/jason-vasquez11//)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  ## 📝Description 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+My personal portfolio, come check it out.🤩
 
-### `npm test`
+  </div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📸 Screenshots 
 
-### `npm run build`
+### Home page:
+<img src="">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Search example:
+<img src="">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Detail Page:
+<img src="">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+##  💻 Technologies Used 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+  ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+  ![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
+  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+  ![VSCode](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visualstudio)
+  ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+  ![Mongoose ODM](https://img.shields.io/badge/-Mongoose_ODM-05122A?style=flat&logo=mongodb)
+  ![Node](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+  ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
+  ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+  ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🔥 Getting Started 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+ [Application Link](https://game-buddyy-a9a4b6f3bc4b.herokuapp.com/Collection)
+ 
+ [Trello Link](https://trello.com/b/HopXmfyA/project-4)
+<details open>
+<summary> Quick summary </summary>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. 
+2. 
+3. 
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
