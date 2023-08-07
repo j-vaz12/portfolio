@@ -1,10 +1,10 @@
-/* ContactPage.css */
+
 .contact-container {
     display: flex;
-    justify-content: space-around; /* Spread socials evenly across the container */
+    justify-content: space-around; 
     align-items: center;
-    height: 100vh; /* Adjust height as needed */
-    background-color: #f7f7f7; /* Set a light background color */
+    height: 100vh; 
+    background-color: #f7f7f7; 
   }
   
   .link {
@@ -34,7 +34,6 @@
     color: rgb(0, 93, 181);
   }
   
-  /* Additional styles for links and images */
   .socials a {
     text-decoration: none;
     color: inherit;
