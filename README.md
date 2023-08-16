@@ -10,7 +10,7 @@
 
   ## 📝Description 
 
-Step into my coding world by exploring my portfolio! Here, lines of code come together to create functional and captivating digital experiences. From web applications that solve real-world problems to elegant algorithms that optimize efficiency, each project in my portfolio is a testament to my dedication to the world of programming. 
+Step into my coding world by exploring my portfolio! Here, lines of code come together to create functional and captivating digital experiences. From web applications that solve real-world problems to elegant algorithms that optimize efficiency, each project in my portfolio is a testament to my dedication to the world of programming. 🤩
   </div>
 
 ##  💻 Technologies Used 
